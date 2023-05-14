@@ -17,4 +17,19 @@
 5. Set the provider
 
 
+         *** Hosting ****
+1. One time per pc
+2. npm install -g firebase-tools    
+3. firebase login
+
+   ****For each project one time
+1. firebase init  
+
+
+
+
+****For Everytime deploy
+
+
+
 */
